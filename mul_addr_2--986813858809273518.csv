@@ -1,0 +1,99 @@
+hospital_name,last_updated_on,version,hospital_location,hospital_address,license_number|CA,"To the best of its knowledge and belief, the hospital has included all applicable standard charge information in accordance with the requirements of 45 CFR 180.50, and the information encoded is true, accurate, and complete as of the date indicated.",,,,,,,,,,,,,,,,
+AHN Neighborhood Hospital,2024-05-15,2.0.0,AHN Hempfield Neighborhood Hospital|AHN McCandless Neighborhood Hospitals|AHN Brentwood Neighborhood Hospital|AHN Harmar Neighborhood Hospital,"6321 Route 30, Greensburg, PA 15601|8950 Duncan Avenue, Pittsburgh, PA 15237|3290 Saw Mill Run Boulevard, Pittsburgh, PA 15227|2501 Freeport Road, Pittsburgh, PA 15238",50520101,TRUE,,,,,,,,,,,,,,,,
+description,code | 1,code | 1 | type,code | 2,code | 2 | type,code | 3,code | 3 | type,setting,drug_unit_of_measurement,drug_type_of_measurement,standard_charge|gross,standard_charge|discounted_cash,payer_name,plan_name,modifiers,standard_charge|negotiated_dollar,standard_charge|negotiated_percentage,standard_charge|negotiated_algorithm,estimated_amount,standard_charge|min,standard_charge|max,standard_charge|methodology,additional_generic_notes
+"Inpatient Pvt R&B, per day - L1",110,RC,,,411000001,CDM,inpatient,,,3028.00,757.00,,,,,,,,,,,hospital's standard charge pricing
+"Inpt Semi Pvt R&B, per day - L1",120,RC,,,412000001,CDM,inpatient,,,3028.00,757.00,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine 1% 20 ml inj,250,RC,,,425000003,CDM,both,,,2.77,0.69,,,,,,,,,,,hospital's standard charge pricing
+Meclizine 25 mg tab,250,RC,,,425000009,CDM,both,,,1.62,0.41,,,,,,,,,,,hospital's standard charge pricing
+Aspirin 325 mg tabs,250,RC,,,425000010,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Aspirin 81 mg chew tabs,250,RC,,,425000011,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine (CARDIAC) 2% 5ml syr,250,RC,J2001,HCPCS,425000012,CDM,both,,,17.38,4.35,,,,,,,,,,,hospital's standard charge pricing
+Lorazepam 1 mg tablet,250,RC,,,425000013,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Ampicillin 1 gm inj,250,RC,J0290,HCPCS,425000015,CDM,both,,,6.79,1.70,,,,,,,,,,,hospital's standard charge pricing
+Sulfa/trimeth 160/800 mg tab,250,RC,,,425000017,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Diphenhist 12.5 mg/5 ml syr,250,RC,,,425000018,CDM,both,,,2.92,0.73,,,,,,,,,,,hospital's standard charge pricing
+Diphenhydramine 50 mg/ml inj,250,RC,J1200,HCPCS,425000019,CDM,both,,,4.11,1.03,,,,,,,,,,,hospital's standard charge pricing
+Diphenhydramine 25 mg cap,250,RC,,,425000020,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Dicyclomine 20mg/2mL inj,250,RC,J0500,HCPCS,425000021,CDM,both,,,86.10,21.53,,,,,,,,,,,hospital's standard charge pricing
+"Calcium Chloride 10% 1,000mg/10mL syr",250,RC,,,425000023,CDM,both,,,36.75,9.19,,,,,,,,,,,hospital's standard charge pricing
+Nicardipine 25mg/10mL inj,250,RC,,,425000026,CDM,both,,,0.36,0.09,,,,,,,,,,,hospital's standard charge pricing
+Actidose Aqua (charcoal) 25 grams/120 ml,250,RC,,,425000028,CDM,both,,,46.62,11.66,,,,,,,,,,,hospital's standard charge pricing
+Actidose w/ Sorbitol 25 grams/120 ml,250,RC,,,425000029,CDM,both,,,43.29,10.82,,,,,,,,,,,hospital's standard charge pricing
+Diltiazem 25mg/5mL inj,250,RC,,,425000030,CDM,both,,,11.97,2.99,,,,,,,,,,,hospital's standard charge pricing
+Ciprofloxacin 0.3% Eye Drops 2.5ml,250,RC,,,425000031,CDM,both,,,36.75,9.19,,,,,,,,,,,hospital's standard charge pricing
+Ciprofloxacin 500 mg tab,250,RC,,,425000033,CDM,both,,,1.02,0.26,,,,,,,,,,,hospital's standard charge pricing
+Clonidine 0.1mg tab,250,RC,,,425000034,CDM,both,,,1.07,0.27,,,,,,,,,,,hospital's standard charge pricing
+Docusate Sod 100 mg cap,250,RC,,,425000035,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine 1% amp 5 ml,250,RC,,,425000037,CDM,both,,,4.97,1.24,,,,,,,,,,,hospital's standard charge pricing
+Warfarin 1 mg tab,250,RC,,,425000038,CDM,both,,,1.30,0.32,,,,,,,,,,,hospital's standard charge pricing
+Famotidine 20mg/2mL inj,250,RC,,,425000039,CDM,both,,,3.15,0.79,,,,,,,,,,,hospital's standard charge pricing
+Marcaine .25% w/EPI 30 ml inj,250,RC,,,425000040,CDM,both,,,10.24,2.56,,,,,,,,,,,hospital's standard charge pricing
+Metronidazole 500 mg IV,250,RC,,,425000041,CDM,both,,,7.48,1.87,,,,,,,,,,,hospital's standard charge pricing
+Marcaine .5% 10 ml inj,250,RC,,,425000042,CDM,both,,,0.17,0.04,,,,,,,,,,,hospital's standard charge pricing
+Octreotide (Sandostatin) 50 mCg/ml inj amp,250,RC,J2353,HCPCS,425000043,CDM,both,,,7.88,1.97,,,,,,,,,,,hospital's standard charge pricing
+Ammonia inhalant,250,RC,,,425000046,CDM,both,,,1.40,0.35,,,,,,,,,,,hospital's standard charge pricing
+Dextrose 50% syr 50 ml,250,RC,,,425000051,CDM,both,,,64.40,16.10,,,,,,,,,,,hospital's standard charge pricing
+Dextrose 25% syr 10 ml,250,RC,,,425000052,CDM,both,,,49.21,12.30,,,,,,,,,,,hospital's standard charge pricing
+"Epinephrine 1:10,000 inj syringe",250,RC,J0171,HCPCS,425000059,CDM,both,,,1.83,0.46,,,,,,,,,,,hospital's standard charge pricing
+Enalaprilat 1.25mg/ml inj,250,RC,,,425000061,CDM,both,,,18.59,4.65,,,,,,,,,,,hospital's standard charge pricing
+Epinephrine 1:1000 inj 1 ml,250,RC,J0171,HCPCS,425000062,CDM,both,,,5.24,1.31,,,,,,,,,,,hospital's standard charge pricing
+Erythromycin eye ointment,250,RC,,,425000063,CDM,both,,,53.21,13.30,,,,,,,,,,,hospital's standard charge pricing
+Etomidate 20mg/10mL inj,250,RC,,,425000064,CDM,both,,,19.74,4.94,,,,,,,,,,,hospital's standard charge pricing
+Metronidazole 500 mg tab,250,RC,,,425000067,CDM,both,,,2.63,0.66,,,,,,,,,,,hospital's standard charge pricing
+Fleet Enema (for adults),250,RC,,,425000068,CDM,both,,,3.31,0.83,,,,,,,,,,,hospital's standard charge pricing
+Cyclobenzaprine 5 mg tablet,250,RC,,,425000069,CDM,both,,,2.40,0.60,,,,,,,,,,,hospital's standard charge pricing
+Ful-Glo (Fluorescein strips),250,RC,,,425000070,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Folic Acid 1 mg tablet,250,RC,,,425000071,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Gentamycin eye drops,250,RC,,,425000073,CDM,both,,,124.99,31.25,,,,,,,,,,,hospital's standard charge pricing
+Glycerin Pediatric suppository,250,RC,,,425000074,CDM,both,,,2.68,0.67,,,,,,,,,,,hospital's standard charge pricing
+Multivitamin 10mL inj,250,RC,,,425000077,CDM,both,,,46.83,11.71,,,,,,,,,,,hospital's standard charge pricing
+Metformin 500 mg tab,250,RC,,,425000080,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Albuterol 2.5mg/3ml UD,250,RC,,,425000082,CDM,both,,,1.05,0.26,,,,,,,,,,,hospital's standard charge pricing
+Ketamine 500mg/10mL inj,250,RC,,,425000083,CDM,both,,,24.57,6.14,,,,,,,,,,,hospital's standard charge pricing
+Labetalol 5 mg/ml 20 ml inj MDV,250,RC,,,425000084,CDM,both,,,2.80,0.70,,,,,,,,,,,hospital's standard charge pricing
+Furosemide 20 mg tab,250,RC,,,425000085,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Losartan 50 mg tab,250,RC,,,425000086,CDM,both,,,1.97,0.49,,,,,,,,,,,hospital's standard charge pricing
+Levsin 0.5 mg/ml inj,250,RC,J1980,HCPCS,425000087,CDM,both,,,108.74,27.19,,,,,,,,,,,hospital's standard charge pricing
+Levaquin 500 mg/100 ml IV,250,RC,J1956,HCPCS,425000089,CDM,both,,,19.83,4.96,,,,,,,,,,,hospital's standard charge pricing
+Norepinephrine 4mg/4mL inj,250,RC,,,425000090,CDM,both,,,17.50,4.38,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine Topical 4% soln 50ml bottle,250,RC,,,425000092,CDM,both,,,9.31,2.33,,,,,,,,,,,hospital's standard charge pricing
+"Lidocaine 1% w/EPI 1:100,000 inj 20 ml vial",250,RC,,,425000093,CDM,both,,,8.33,2.08,,,,,,,,,,,hospital's standard charge pricing
+"Lidocaine 2% w/EPI 1:100,000 inj 20 ml vial",250,RC,,,425000095,CDM,both,,,4.36,1.09,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine 2% inj 20 ml,250,RC,,,425000096,CDM,both,,,2.05,0.51,,,,,,,,,,,hospital's standard charge pricing
+Diphenoxylate/Atropine tab,250,RC,,,425000098,CDM,both,,,1.63,0.41,,,,,,,,,,,hospital's standard charge pricing
+Metoprolol 50 mg tab,250,RC,,,425000099,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Metoprolol 5mg/5mL inj,250,RC,,,425000100,CDM,both,,,4.55,1.14,,,,,,,,,,,hospital's standard charge pricing
+Hydrocodone 2.5mg/Acetaminophen 108mg/5mL UD elixir,250,RC,,,425000101,CDM,both,,,25.71,6.43,,,,,,,,,,,hospital's standard charge pricing
+Magnesium citrate 10 oz,250,RC,,,425000103,CDM,both,,,3.15,0.79,,,,,,,,,,,hospital's standard charge pricing
+Marcaine 0.5% inj 30 ml,250,RC,,,425000105,CDM,both,,,0.03,0.01,,,,,,,,,,,hospital's standard charge pricing
+Ibuprofen 200 mg tab,250,RC,,,425000106,CDM,both,,,0.50,0.13,,,,,,,,,,,hospital's standard charge pricing
+Ibuprofen Susp 100 mg/5ml,250,RC,,,425000108,CDM,both,,,2.98,0.74,,,,,,,,,,,hospital's standard charge pricing
+Nitropress 50mg/2ml inj,250,RC,,,425000109,CDM,both,,,178.75,44.69,,,,,,,,,,,hospital's standard charge pricing
+"Bupivacaine w/EPI 0.5%/1:200,000 inj 30 ml",250,RC,,,425000110,CDM,both,,,8.97,2.24,,,,,,,,,,,hospital's standard charge pricing
+Nitro-bid 2% oint,250,RC,,,425000111,CDM,both,,,7.72,1.93,,,,,,,,,,,hospital's standard charge pricing
+Nitroglycerin in Dextrose inj 50 mg/250ml Premixed bottle,250,RC,,,425000113,CDM,both,,,78.75,19.69,,,,,,,,,,,hospital's standard charge pricing
+Nitrostat 0.4mg SL tab,250,RC,,,425000114,CDM,both,,,5.66,1.42,,,,,,,,,,,hospital's standard charge pricing
+Ipratropium .02% Neb soln,250,RC,,,425000117,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine Viscous 2% Oral 15ml,250,RC,,,425000119,CDM,both,,,19.64,4.91,,,,,,,,,,,hospital's standard charge pricing
+Promethazine 25 mg tab,250,RC,,,425000126,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Phenobarbital 65mg/ml inj,250,RC,J2560,HCPCS,425000128,CDM,both,,,147.59,36.90,,,,,,,,,,,hospital's standard charge pricing
+Trimeth/Polymyxin B opth soln,250,RC,,,425000129,CDM,both,,,36.23,9.06,,,,,,,,,,,hospital's standard charge pricing
+Potassium Chloride 20 meq tab,250,RC,,,425000130,CDM,both,,,2.52,0.63,,,,,,,,,,,hospital's standard charge pricing
+"Propofol 1,000mg/100mL inj",250,RC,J2704,HCPCS,425000132,CDM,both,,,0.76,0.19,,,,,,,,,,,hospital's standard charge pricing
+Flumazenil 0.5mg/5mL inj,250,RC,,,425000135,CDM,both,,,22.75,5.69,,,,,,,,,,,hospital's standard charge pricing
+Racepinephrine 2.25% soln,250,RC,,,425000137,CDM,both,,,5.25,1.31,,,,,,,,,,,hospital's standard charge pricing
+Sodium bicarb 4% Neut 5 ml,250,RC,,,425000139,CDM,both,,,25.17,6.29,,,,,,,,,,,hospital's standard charge pricing
+Timolol 0.5% Ophtalmic Drops,250,RC,,,425000144,CDM,both,,,33.95,8.49,,,,,,,,,,,hospital's standard charge pricing
+Vasopressin 20u inj,250,RC,,,425000147,CDM,both,,,690.23,172.56,,,,,,,,,,,hospital's standard charge pricing
+Acetamino. 160mg/5ml elixir,250,RC,,,425000148,CDM,both,,,3.15,0.79,,,,,,,,,,,hospital's standard charge pricing
+Acetaminophen 650 mg supp,250,RC,,,425000150,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Acetaminophen 325 mg tab,250,RC,,,425000151,CDM,both,,,0.50,0.13,,,,,,,,,,,hospital's standard charge pricing
+Acetaminophen 500 mg tab,250,RC,,,425000152,CDM,both,,,0.50,0.13,,,,,,,,,,,hospital's standard charge pricing
+Acetaminophen 120 mg supp,250,RC,,,425000153,CDM,both,,,1.08,0.27,,,,,,,,,,,hospital's standard charge pricing
+Tramadol 50 mg tab,250,RC,,,425000155,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Sodium bicarb 8.4% 50 ml,250,RC,,,425000156,CDM,both,,,62.65,15.66,,,,,,,,,,,hospital's standard charge pricing
+Diazepam 5 mg tab,250,RC,,,425000157,CDM,both,,,1.00,0.25,,,,,,,,,,,hospital's standard charge pricing
+Sodium bicarb 8.4% pedi 10 ml,250,RC,,,425000158,CDM,both,,,375.55,93.89,,,,,,,,,,,hospital's standard charge pricing
+Vecuronium 10 mg/10 ml inj,250,RC,,,425000159,CDM,both,,,15.40,3.85,,,,,,,,,,,hospital's standard charge pricing
+Lidocaine Viscous 2% 100mL,250,RC,,,425000162,CDM,both,,,5.78,1.45,,,,,,,,,,,hospital's standard charge pricing
+Phytonadione 10 mg/ml inj (per 1mg),250,RC,J3430,HCPCS,425000163,CDM,both,,,14.97,3.74,,,,,,,,,,,hospital's standard charge pricing
